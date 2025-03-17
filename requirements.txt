@@ -1,0 +1,4 @@
+ipykernel
+dotenv
+openai
+lamini
